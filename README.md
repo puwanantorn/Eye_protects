@@ -111,6 +111,6 @@ The goal is to explore how AI can assist in early disease awareness and improve 
 
 ## ⚠️ Disclaimer
 
-Eye Protecs provides preliminary AI-generated screening results only.
+Eye Protects provides preliminary AI-generated screening results only.
 
 It must not be used as a substitute for professional medical diagnosis or treatment.
