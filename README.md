@@ -1,6 +1,6 @@
-# 👁️ Eye Protecs — AI Eye Disease Screening Application
+# 👁️ Eye Protects — AI Eye Disease Screening Application
 
-Eye Protecs is an AI-powered mobile healthcare prototype designed to support early screening of eye diseases using:
+Eye Protects is an AI-powered mobile healthcare prototype designed to support early screening of eye diseases using:
 
 - 📷 Eye image analysis
 - 💬 Symptom-based diagnosis
